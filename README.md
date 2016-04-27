@@ -1,2 +1,2 @@
 # Location
-Localization
+Give map view of localization.
